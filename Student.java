@@ -10,7 +10,6 @@ public class Student implements StudentRequirements {
 - Double Engery
 - Double Fun
 - Double Social 
-
 */
 
 
